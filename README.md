@@ -62,4 +62,4 @@ docs/screenshots/   # Images used in this README
 
 ## Author
 
-Developed by [Paulo Salazar](https://github.com/SalazarPaulo).
+Developed by [Paulo Salazar](https://github.com/SalazarPaulo) y compañeros de la universidad.
